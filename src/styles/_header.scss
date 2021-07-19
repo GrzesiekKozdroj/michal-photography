@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+
+
+@mixin instaFlex {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+@mixin navDef {
+    width:34.5%;
+    height:100;
+    font-family: 'Sanchez';
+    color:white;
+    font-size: 25px;
+}
+.Navbar {
+    color: 'white';
+    width:100vw;
+    height:10.5vh;
+    background-color: #232323;
+    display:flex;
+    .Navbar-middle{
+        @include navDef();
+        font-size: 29px;
+        @include instaFlex();
+        font-family: 'Spartan';
+        width: 20%;
+        margin: 3vw;
+        letter-spacing: -1px;
+    }
+    .Menu{
+        @include navDef();
+        @include instaFlex();
+    }
+    .right{
+        justify-content: start;
+    }
+    .left{
+        justify-content: end;
+    }
+    .Navbar-button{
+        @include instaFlex();
+        color: white;
+        height:9.5vh;
+        margin-left: 1.4vw;
+        margin-right: 1.4vw;
+        letter-spacing: .7px;
+    }
+}
