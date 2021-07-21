@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/michal-photography/static/css/main.726ce3c4.chunk.css",
-    "main.js": "/michal-photography/static/js/main.00a259d9.chunk.js",
-    "main.js.map": "/michal-photography/static/js/main.00a259d9.chunk.js.map",
+    "main.css": "/michal-photography/static/css/main.ee019e63.chunk.css",
+    "main.js": "/michal-photography/static/js/main.ef850871.chunk.js",
+    "main.js.map": "/michal-photography/static/js/main.ef850871.chunk.js.map",
     "runtime-main.js": "/michal-photography/static/js/runtime-main.5fb2c2a6.js",
     "runtime-main.js.map": "/michal-photography/static/js/runtime-main.5fb2c2a6.js.map",
     "static/js/2.690538c1.chunk.js": "/michal-photography/static/js/2.690538c1.chunk.js",
     "static/js/2.690538c1.chunk.js.map": "/michal-photography/static/js/2.690538c1.chunk.js.map",
     "index.html": "/michal-photography/index.html",
-    "static/css/main.726ce3c4.chunk.css.map": "/michal-photography/static/css/main.726ce3c4.chunk.css.map",
+    "static/css/main.ee019e63.chunk.css.map": "/michal-photography/static/css/main.ee019e63.chunk.css.map",
     "static/js/2.690538c1.chunk.js.LICENSE.txt": "/michal-photography/static/js/2.690538c1.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/michal-photography/static/media/logo.6ce24c58.svg",
     "static/media/_boody.min.css": "/michal-photography/static/media/o1.44abc9df.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.5fb2c2a6.js",
     "static/js/2.690538c1.chunk.js",
-    "static/css/main.726ce3c4.chunk.css",
-    "static/js/main.00a259d9.chunk.js"
+    "static/css/main.ee019e63.chunk.css",
+    "static/js/main.ef850871.chunk.js"
   ]
 }
