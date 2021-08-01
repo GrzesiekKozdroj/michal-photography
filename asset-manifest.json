@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/michal-photography/static/css/main.8efea0b2.chunk.css",
-    "main.js": "/michal-photography/static/js/main.1d75529f.chunk.js",
-    "main.js.map": "/michal-photography/static/js/main.1d75529f.chunk.js.map",
+    "main.js": "/michal-photography/static/js/main.a3acaaea.chunk.js",
+    "main.js.map": "/michal-photography/static/js/main.a3acaaea.chunk.js.map",
     "runtime-main.js": "/michal-photography/static/js/runtime-main.5fb2c2a6.js",
     "runtime-main.js.map": "/michal-photography/static/js/runtime-main.5fb2c2a6.js.map",
     "static/js/2.690538c1.chunk.js": "/michal-photography/static/js/2.690538c1.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/michal-photography/index.html",
     "static/css/main.8efea0b2.chunk.css.map": "/michal-photography/static/css/main.8efea0b2.chunk.css.map",
     "static/js/2.690538c1.chunk.js.LICENSE.txt": "/michal-photography/static/js/2.690538c1.chunk.js.LICENSE.txt",
-    "static/media/PicsArt_07-29-11.43.37.048fa9ed.jpg": "/michal-photography/static/media/PicsArt_07-29-11.43.37.048fa9ed.jpg",
+    "static/media/PicsArt_07-29-11.43.37MIN.88542098.jpg": "/michal-photography/static/media/PicsArt_07-29-11.43.37MIN.88542098.jpg",
     "static/media/PicsArt_07-29-11.47.55.a52d4267.jpg": "/michal-photography/static/media/PicsArt_07-29-11.47.55.a52d4267.jpg",
     "static/media/PicsArt_07-30-12.16.02.2c242106.jpg": "/michal-photography/static/media/PicsArt_07-30-12.16.02.2c242106.jpg",
     "static/media/PicsArt_07-30-12.17.17.f680504b.jpg": "/michal-photography/static/media/PicsArt_07-30-12.17.17.f680504b.jpg",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.5fb2c2a6.js",
     "static/js/2.690538c1.chunk.js",
     "static/css/main.8efea0b2.chunk.css",
-    "static/js/main.1d75529f.chunk.js"
+    "static/js/main.a3acaaea.chunk.js"
   ]
 }
