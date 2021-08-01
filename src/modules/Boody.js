@@ -1,16 +1,19 @@
 
 const slider = slide => {
     if(slide.strater){
-        return (<div className="mich-name"><h1>MICHAL BONIECKI</h1><h4>A Photograph.</h4></div>)
+        return (
+            <div className="slide starter" style={{'backgroundImage':`url(${slide.image})`}}>
+                <div className="mich-name"><h1>MICHAL BONIECKI</h1><h4>A Photograph.</h4></div>
+            </div>
+            )
     } else if(slide.header && slide.text && slide.image){
         const {header, text, image} = slide
         return(
-            <div className="slide people">
-                <img className="boode-img" src={image} />
-                <div className="nfo">
+            <div className="slide people" style={{'backgroundImage':`url(${image})`}}>
+                <div className={"nfo " + (header==='PEOPLE'?" correction":"")}>
                     <h3>{header}</h3>
                     <p>{text}</p>
-                    <div className="button" >GALLERY</div>
+                    <a href="https://m.facebook.com/pg/MichalBonieckiPhotography/photos/?tab=album&album_id=102853731700085&ref=bookmarks&mt_nav=1" target="_blank"><div className="button" >GALLERY</div></a>
                 </div>
             </div>
         )

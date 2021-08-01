@@ -8,11 +8,11 @@
     align-items: center;
 }
 @mixin navDef {
-    width:34.5%;
+    width:35%;
     height:100;
     font-family: 'Sanchez';
     color:white;
-    font-size: 25px;
+    font-size: 2.3rem;
 }
 .Navbar {
     color: 'white';
@@ -20,31 +20,68 @@
     height:10.5vh;
     background-color: #232323;
     display:flex;
+    justify-content: center;
+    // div{
+    //     //border:1px solid goldenrod!important;
+    // }
     .Navbar-middle{
         @include navDef();
-        font-size: 29px;
+        font-size: 2.4rem;
         @include instaFlex();
         font-family: 'Spartan';
-        width: 20%;
-        margin: 3vw;
+        width: 21%;
+        min-width:30vw;
+        //margin: auto 3%;
         letter-spacing: -1px;
+        cursor: default;
+        height:100%;
     }
     .Menu{
         @include navDef();
         @include instaFlex();
     }
     .right{
+        @include instaFlex();
         justify-content: start;
     }
     .left{
-        justify-content: end;
+        @include instaFlex();
+        justify-content: flex-end;
     }
     .Navbar-button{
         @include instaFlex();
-        color: white;
+        color: rgb(255, 255, 255);
         height:9.5vh;
-        margin-left: 1.4vw;
-        margin-right: 1.4vw;
+        margin-left: .7vw;
+        margin-right: .7vw;
         letter-spacing: .7px;
+        cursor: pointer;
+        text-decoration: none;
+        position: relative;
+        width:24%;
+    }
+    a{
+        text-decoration: none;
     }
 }
+.notallowed {
+    cursor: wait!important;
+}
+    .Navbar-button:before{
+        content:"";
+        position:absolute;
+        width:115%;
+        height:2px;
+        bottom:8px;
+        //left:12%;
+        background-color: rgba(255, 255, 255, .8);
+        opacity:1;
+        transform:scale(0);
+        transition: all .2s ease-in-out 0s;
+        z-index: 10;
+    }
+    .Navbar-button:hover:before{
+        opacity: 1;
+        left: 0;
+        transform: scaleX(1);
+    }
