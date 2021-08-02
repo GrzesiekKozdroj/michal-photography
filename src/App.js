@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './styles/_resetter.css';
 import './styles/_header.min.css'
 import './styles/_boody.min.css'
+import './styles/_rwd.min.css'
 import Navbar from './modules/Navbar'
 import Boody from './modules/Boody'
 import { useState, useEffect } from 'react'

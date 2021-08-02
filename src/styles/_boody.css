@@ -8,6 +8,10 @@
   height: 89.5vh;
 }
 
+body {
+  background-color: #474242;
+}
+
 .mich-name {
   bottom: 6vh;
   left: 45vw;
@@ -129,4 +133,5 @@ a .button {
 
 .mIco {
   font-size: 36.6px;
+  margin-right: 1vw;
 }
