@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/michal-photography/static/css/main.ec6bf6d1.chunk.css",
-    "main.js": "/michal-photography/static/js/main.dc663673.chunk.js",
-    "main.js.map": "/michal-photography/static/js/main.dc663673.chunk.js.map",
+    "main.css": "/michal-photography/static/css/main.0186a947.chunk.css",
+    "main.js": "/michal-photography/static/js/main.215d5fe0.chunk.js",
+    "main.js.map": "/michal-photography/static/js/main.215d5fe0.chunk.js.map",
     "runtime-main.js": "/michal-photography/static/js/runtime-main.5fb2c2a6.js",
     "runtime-main.js.map": "/michal-photography/static/js/runtime-main.5fb2c2a6.js.map",
     "static/js/2.544268b3.chunk.js": "/michal-photography/static/js/2.544268b3.chunk.js",
     "static/js/2.544268b3.chunk.js.map": "/michal-photography/static/js/2.544268b3.chunk.js.map",
     "index.html": "/michal-photography/index.html",
-    "static/css/main.ec6bf6d1.chunk.css.map": "/michal-photography/static/css/main.ec6bf6d1.chunk.css.map",
+    "static/css/main.0186a947.chunk.css.map": "/michal-photography/static/css/main.0186a947.chunk.css.map",
     "static/js/2.544268b3.chunk.js.LICENSE.txt": "/michal-photography/static/js/2.544268b3.chunk.js.LICENSE.txt",
+    "static/media/_rwd.min.css": "/michal-photography/static/media/PicsArt_07-29-11.43.37MIN(1).ce4a4e7b.jpg",
     "static/media/PicsArt_07-29-11.43.37MIN.f8fc1923.jpg": "/michal-photography/static/media/PicsArt_07-29-11.43.37MIN.f8fc1923.jpg",
     "static/media/PicsArt_07-29-11.47.55MIN.bc1db26d.jpg": "/michal-photography/static/media/PicsArt_07-29-11.47.55MIN.bc1db26d.jpg",
     "static/media/PicsArt_07-30-12.16.02MIN.46747c13.jpg": "/michal-photography/static/media/PicsArt_07-30-12.16.02MIN.46747c13.jpg",
     "static/media/PicsArt_07-30-12.17.17MIN.53f7be1f.jpg": "/michal-photography/static/media/PicsArt_07-30-12.17.17MIN.53f7be1f.jpg",
-    "static/media/PicsArt_07-30-12.27.58MIN.8dceecf3.jpg": "/michal-photography/static/media/PicsArt_07-30-12.27.58MIN.8dceecf3.jpg",
     "static/media/PicsArt_07-30-12.29.54MIN.976d5d41.jpg": "/michal-photography/static/media/PicsArt_07-30-12.29.54MIN.976d5d41.jpg",
+    "static/media/PicsArt_08-04-08.13.54.31075a60.jpg": "/michal-photography/static/media/PicsArt_08-04-08.13.54.31075a60.jpg",
     "static/media/facebookIco.1c75193c.png": "/michal-photography/static/media/facebookIco.1c75193c.png",
     "static/media/instagramIco.7a53b706.png": "/michal-photography/static/media/instagramIco.7a53b706.png",
     "static/media/logo.6ce24c58.svg": "/michal-photography/static/media/logo.6ce24c58.svg",
@@ -24,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.5fb2c2a6.js",
     "static/js/2.544268b3.chunk.js",
-    "static/css/main.ec6bf6d1.chunk.css",
-    "static/js/main.dc663673.chunk.js"
+    "static/css/main.0186a947.chunk.css",
+    "static/js/main.215d5fe0.chunk.js"
   ]
 }
