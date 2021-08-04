@@ -12,7 +12,7 @@ import artImg from    './images/o3.jpg'
 import kidsImg from   './images/PicsArt_07-30-12.17.17MIN.jpg'
 import peopleImg from './images/PicsArt_07-29-11.47.55MIN.jpg'
 import socialImg from './images/PicsArt_07-30-12.29.54MIN.jpg'
-import thingsImg from './images/PicsArt_07-30-12.27.58MIN.jpg'
+import thingsImg from './images/PicsArt_08-04-08.13.54.jpg'
 import instagramIco from './images/instagramIco.png'
 import facebookIco from './images/facebookIco.png'
 const facebookLink = "https://m.facebook.com/102838148368310"

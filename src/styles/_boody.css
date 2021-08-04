@@ -112,6 +112,7 @@ a .button {
   width: 100%;
   justify-content: flex-start;
   font-family: 'Sanchez';
+  margin-bottom: .5rem;
 }
 
 .social-links .social-media-ico {
