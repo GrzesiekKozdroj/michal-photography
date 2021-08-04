@@ -58,6 +58,7 @@ const contactNFO = () => {
 const slides = {
     starter: {
       strater:true,
+      header:'starter',
       image: backgroundImg
     },
     people:{
@@ -72,7 +73,7 @@ const slides = {
     },
     art:{
         header:'ART',
-        text:'He knows stuff, he thinks stuff, and then make incredebily projects happen that you oculd easily see in commercials ',
+        text:'he knows stuff, he thinks stuff, and then make incredebily projects happen that you oculd easily see in commercials ',
         image: artImg
     },
     social:{

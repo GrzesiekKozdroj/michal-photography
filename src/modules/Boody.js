@@ -3,13 +3,13 @@ const slider = slide => {
     if(slide.strater){
         return (
             <div className="slide starter" style={{'backgroundImage':`url(${slide.image})`}}>
-                <div className="mich-name"><h1>MICHAL BONIECKI</h1><h4>A Photograph.</h4></div>
+                <div className="mich-name"><h1>MICHAL BONIECKI</h1><h4>A Photographer.</h4></div>
             </div>
             )
     } else if(slide.header && slide.text && slide.image){
         const {header, text, image} = slide
         return(
-            <div className="slide people" style={{'backgroundImage':`url(${image})`}}>
+            <div className={"slide people " + header } style={{'backgroundImage':`url(${image})`}}>
                 <div className={"nfo " + (header==='PEOPLE'?" correction":"")}>
                     <h3>{header}</h3>
                     <p>{text}</p>
