@@ -43,7 +43,7 @@ const contactNFO = () => {
       <h5>are you ready to arrange a session?</h5>
       <div className="social-links">
         <i className="material-icons mIco">phone_iphone</i>
-        <span>07816832210</span>
+        <span>07916832210</span>
       </div>
       <div className="social-links">
         <i className="material-icons mIco">email</i>
