@@ -13,7 +13,7 @@ const slider = slide => {
                 <div className={"nfo " + (header==='PEOPLE'?" correction":"")}>
                     <h3>{header}</h3>
                     <p>{text}</p>
-                    <a href="https://m.facebook.com/pg/MichalBonieckiPhotography/photos/?tab=album&album_id=102853731700085&ref=bookmarks&mt_nav=1" target="_blank"><div className="button" >GALLERY</div></a>
+                    <a href="https://www.facebook.com/MikeBonieckiPhotography" target="_blank"><div className="button" >GALLERY</div></a>
                 </div>
             </div>
         )

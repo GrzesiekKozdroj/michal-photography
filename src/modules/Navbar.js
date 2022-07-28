@@ -13,7 +13,7 @@ export default ({onClick}) => {
             </div>
             <div className="Navbar-middle" onClick={()=>{onClick('starter')}}>MB PHOTOGRAPHY</div>
             <div className="right Menu">
-            <a className="Navbar-button" href="https://m.facebook.com/pg/MichalBonieckiPhotography/photos/?tab=album&album_id=102853731700085&ref=bookmarks&mt_nav=1" target="_blank">
+            <a className="Navbar-button" href="https://www.facebook.com/MikeBonieckiPhotography" target="_blank">
                 <div className="Navbar-button">gallery</div>
             </a>
                 {NavButton('social',onClick)}
